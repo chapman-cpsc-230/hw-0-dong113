@@ -10,7 +10,7 @@ _\<fill in the blanks of the questions\>_
 
 ## What I Learned from This
 
-_\<understand the rules and be able to change a file's test??\>_
+_\<understand the rules and be able to change a file's text??\>_
 
 ## Honor Pledge
 
